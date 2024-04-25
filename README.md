@@ -2,7 +2,7 @@
 <img align="right" alt="" height="200px" src="https://github.com/rafaelrabel0/RafaelRabel0/assets/166072606/ab461e94-e330-4cbf-ae43-c9fdaa238bb9" alt="imagem">
 
 <!--título-->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World!%F0%9F%91%BE)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World!%F0%9F%91%BE)
 
 <!-- Presentation -->
 <p>
