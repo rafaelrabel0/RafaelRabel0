@@ -7,7 +7,7 @@
 <!-- Presentation -->
 <p>
  I'm Rafael Rabelo, a dedicated programming student, from Brazil, with a focus on becoming a Front-end Developer. I'm devoting time and effort to mastering the front-end of web development. I'm constantly involved in practical projects, whether through online 
- courses or through college projects. These experiences have been crucial in enhancing my technical skills and teamwork abilities, crucial aspects for success as a front-end developer.
+ courses or through college assignments. These experiences have been crucial in enhancing my technical skills and teamwork abilities, crucial aspects for success as a front-end developer.
 </p>
 
 # 📖 Academic
