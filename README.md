@@ -30,7 +30,7 @@
 
 ##
 <!-- GIF -->
-<img align="right" alt="" height="200px" src="https://github.com/rafaelrabel0/RafaelRabel0/assets/166072606/3379ce15-8ecf-45a3-88fd-7655ec66fde4" alt="imagem">
+<img align="right" alt="" height="195px" src="https://github.com/rafaelrabel0/RafaelRabel0/assets/166072606/3379ce15-8ecf-45a3-88fd-7655ec66fde4" alt="imagem">
 
 <!-- Github stats -->
 ![RafaelRabel0 GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelrabel0&show_icons=true&theme=radical)
