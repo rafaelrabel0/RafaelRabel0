@@ -11,9 +11,9 @@
 </p>
 
 # 📖 Academic
-  -  B.A Software Engineering at UNIFAN (1°Year)
-  -  Formação Front-end at UDEMY
-  -  And Data Science and Computer Science at HARVARD <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  -  B.A Software Engineering at <a href="https://www.unifan.edu.br/unifan/aparecida/">UNIFAN</a> (1°Year)
+  -  Formação Front-end at <a href="https://www.udemy.com">UDEMY</a>
+  -  And Data Science and Computer Science at <a href="https://learning.edx.org/course/course-v1:HarvardX+CS50+X/homeHARVARD">HARVARD</a> <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
 
 
