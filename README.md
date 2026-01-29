@@ -1,34 +1,22 @@
-<table>
-  <tr>
-    <td valign="top" width="65%">
+<!-- GIF -->
+<img align="right" alt="" height="200px" src="https://github.com/user-attachments/assets/49432126-f369-4402-89d1-c039b7a2ef95" alt="imagem">
 
 <!-- TÍTULO -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello+World!%F0%9F%91%BE)
 
-💻 Software Developer | 🤖 Senior Automation Engineer | 🔗 Integration Specialist<br/><br/>
+<!-- Presentation --> 
+<p>
+ 💻 Software Developer | 🤖 Senior Automation Engineer | 🔗 Integration Specialist
 
-Building intelligent automation solutions with N8N, AI, and code.<br/><br/>
+Building intelligent automation solutions with N8N, AI, and code.
 
-• Software Development & Logical Programming<br/>
-• Advanced Process Automation & Workflow Orchestration<br/>
-• Prompt Engineering & AI Integration<br/>
-• System Integration & API Development<br/><br/>
+- Software Development & Logical Programming
+- Advanced Process Automation & Workflow Orchestration
+- Prompt Engineering & AI Integration
+- System Integration & API Development
 
 Transforming manual processes into scalable automated workflows.
-
-    </td>
-    <td valign="top" align="right" width="35%">
-
-<img height="230px"
-     src="https://github.com/user-attachments/assets/6489d3f2-2f1b-41e1-a46d-3e8bbedd247b" />
-<br/><br/>
-<img height="230px"
-     src="https://github.com/user-attachments/assets/49432126-f369-4402-89d1-c039b7a2ef95" />
-
-    </td>
-  </tr>
-</table>
-
+</p>
 
 # 📖 Academic
   - B.A. Software Engineering at <a href="https://www.unifan.edu.br/unifan/aparecida/">UNIFAN</a> (1st Year)
