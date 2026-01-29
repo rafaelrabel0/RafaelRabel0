@@ -1,18 +1,11 @@
-<!-- GIF -->
-<div align="right">
-  <img height="300px"
-       src="https://github.com/user-attachments/assets/6489d3f2-2f1b-41e1-a46d-3e8bbedd247b" />
-  <br/>
-  <img height="300px"
-       src="https://github.com/user-attachments/assets/49432126-f369-4402-89d1-c039b7a2ef95" />
-</div>
+<table>
+  <tr>
+    <td valign="top">
 
-<!--título-->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World!%F0%9F%91%BE)
+<!-- TÍTULO -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello+World!%F0%9F%91%BE)
 
-<!-- Presentation -->
-<p>
- 💻 Software Developer | 🤖 Senior Automation Engineer | 🔗 Integration Specialist
+💻 Software Developer | 🤖 Senior Automation Engineer | 🔗 Integration Specialist
 
 Building intelligent automation solutions with N8N, AI, and code.
 
@@ -22,7 +15,20 @@ Building intelligent automation solutions with N8N, AI, and code.
 - System Integration & API Development
 
 Transforming manual processes into scalable automated workflows.
-</p>
+
+    </td>
+    <td valign="top" align="right">
+
+<img height="260px"
+     src="https://github.com/user-attachments/assets/6489d3f2-2f1b-41e1-a46d-3e8bbedd247b" />
+<br/><br/>
+<img height="260px"
+     src="https://github.com/user-attachments/assets/49432126-f369-4402-89d1-c039b7a2ef95" />
+
+    </td>
+  </tr>
+</table>
+
 
 # 📖 Academic
   - B.A. Software Engineering at <a href="https://www.unifan.edu.br/unifan/aparecida/">UNIFAN</a> (1st Year)
