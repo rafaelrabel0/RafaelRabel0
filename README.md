@@ -19,11 +19,10 @@ Transforming manual processes into scalable automated workflows.
 </p>
 
 # 📖 Academic
-  -  B.A Software Engineering at <a href="https://www.unifan.edu.br/unifan/aparecida/">UNIFAN</a> (1°Year)
-  -  Formação Front-end at <a href="https://www.udemy.com">UDEMY</a>
-  -  And Data Science and Computer Science at <a href="https://learning.edx.org/course/course-v1:HarvardX+CS50+X/homeHARVARD">HARVARD</a> <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
-
-
+  - B.A. Software Engineering at <a href="https://www.unifan.edu.br/unifan/aparecida/">UNIFAN</a> (1st Year)
+  - N8N in Practice, AI Agents Training with N8N at <a href="https://www.escoladeautomacao.com.br/inscricao-ea-bio">Escola de Automação</a>
+  - AI Agents Training at <a href="https://nocodestartup.io/assinatura-pro/?utm_source=google-ads&utm_medium=performance-max&utm_campaign=performance-max-no-code-pro&utm_content=performance_max&conversion=ppt-assinatura-pro&gad_source=1&gad_campaignid=21304773352&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopMM9S87pKXYRXhkqkktYTUgDkkhARzJ-9HnsYTrA2BWLG3BGMoPPC8aAqJ3EALw_wcB">NoCode StartUp</a>
+  - AI for Business, AI Academy at <a href="https://g4educacao.com/?utm_source=google&utm_medium=cpc&utm_campaign=adsgg_g4_bau074_lgen_g4-institucional_bofu_form-g4-google_leads_branding_site-g4&utm_term=g4%20educação&utm&utm_content=bau074_g4-institucional_kw-mix_g4-educacao&utm_placement=search&gad_source=1&gad_campaignid=20917942975&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopMrlKMK4UQ4pMdgcg0Mx17KI5lSojAaoz7PPBhRxMuRg5QwMKJdQNAaArIVEALw_wcB">G4 Educação</a>
 
 <!-- Tech Stacks -->
 # 💻 Stack
