@@ -25,8 +25,8 @@ Transforming manual processes into scalable automated workflows.
   - AI for Business, AI Academy at <a href="https://g4educacao.com/?utm_source=google&utm_medium=cpc&utm_campaign=adsgg_g4_bau074_lgen_g4-institucional_bofu_form-g4-google_leads_branding_site-g4&utm_term=g4%20educação&utm&utm_content=bau074_g4-institucional_kw-mix_g4-educacao&utm_placement=search&gad_source=1&gad_campaignid=20917942975&gclid=Cj0KCQiAhOfLBhCCARIsAJPiopMrlKMK4UQ4pMdgcg0Mx17KI5lSojAaoz7PPBhRxMuRg5QwMKJdQNAaArIVEALw_wcB">G4 Educação</a>
 
 <!-- Tech Stacks -->
-# 💻 Stack
-![n8n](https://img.shields.io/npm/v/npm.svg?logo=n8n) ![lovable](https://img.shields.io/badge/Lovable-awesome-blue?style=for-the-badge&logo=lovable)
+# 💻 Tech
+![n8n](https://img.shields.io/npm/v/npm.svg?logo=n8n)
 
 # 🌐 Contacts
 <div> 
