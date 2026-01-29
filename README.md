@@ -26,8 +26,7 @@ Transforming manual processes into scalable automated workflows.
 
 <!-- Tech Stacks -->
 # 💻 Stack
-![n8n](https://img.shields.io/badge/n8n-#EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-# 🌐 Contacts:
+![n8n](https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n) ![lovable](https://img.shields.io/badge/Lovable-awesome-blue?style=for-the-badge&logo=lovable)
 <div> 
   <a href = "mailto:contatodevrabelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-rabel0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
