@@ -26,7 +26,9 @@ Transforming manual processes into scalable automated workflows.
 
 <!-- Tech Stacks -->
 # 💻 Stack
-![n8n](https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n) ![lovable](https://img.shields.io/badge/Lovable-awesome-blue?style=for-the-badge&logo=lovable)
+![n8n](https://img.shields.io/npm/v/npm.svg?logo=n8n) ![lovable](https://img.shields.io/badge/Lovable-awesome-blue?style=for-the-badge&logo=lovable)
+
+# 🌐 Contacts
 <div> 
   <a href = "mailto:contatodevrabelo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafael-rabel0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
