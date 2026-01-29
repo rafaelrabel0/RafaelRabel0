@@ -8,10 +8,6 @@
   <img height="300px"
        src="https://github.com/user-attachments/assets/6489d3f2-2f1b-41e1-a46d-3e8bbedd247b" />
 </div>
-
-
-
-
 <!--título-->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=Hello+World!%F0%9F%91%BE)
 
