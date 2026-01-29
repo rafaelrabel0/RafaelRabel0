@@ -1,5 +1,6 @@
 <!-- GIF -->
-<img align="right" alt="" height="350px" src="https://github.com/user-attachments/assets/49432126-f369-4402-89d1-c039b7a2ef95" alt="imagem">
+<img align="right" alt="" height="350px" src="https://github.com/user-attachments/assets/8088baa5-03d2-4dcb-9da6-799385fd10bb" alt="imagem">
+
 
 <!-- TÍTULO -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello+World!%F0%9F%91%BE)
