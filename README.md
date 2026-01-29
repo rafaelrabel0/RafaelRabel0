@@ -1,5 +1,7 @@
 <!-- GIF -->
 <img align="right" alt="" height="200px" src="https://github.com/user-attachments/assets/49432126-f369-4402-89d1-c039b7a2ef95" alt="imagem">
+<img align="left" alt="" height="200px" src="https://github.com/user-attachments/assets/6489d3f2-2f1b-41e1-a46d-3e8bbedd247b" alt="imagem">
+
 
 
 <!--título-->
