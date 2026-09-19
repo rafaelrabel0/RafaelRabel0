@@ -1,7 +1,7 @@
 <!-- Título -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6D2E&width=600&lines=AI+Automation+Engineer;Founder+%40+Rabelo+Co.;Building+AI+agents+that+turn+into+revenue)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF6D2E&width=600&lines=AI+Automation+Engineer;Founder+%40+deciban.;Building+AI+agents+that+turn+into+revenue)
 
-**AI Automation Engineer** · Founder @ **[Rabelo Co.](https://rabelo.company)**
+**AI Automation Engineer** · Founder @ **[deciban.](https://rabelo.company)**
 
 I build production AI agents, automation workflows and data pipelines that turn business context into measurable revenue tools — across paint retail, healthcare and beauty verticals.
 
