@@ -10,7 +10,7 @@ I build production AI agents, automation workflows and data pipelines that turn 
 - 🧠 **RAG & vector search** — Supabase pgvector, hybrid static-knowledge + live-API architectures
 - 🚢 **End-to-end shipping** — Next.js/Supabase web apps live on Vercel, Electron ops panels, REST APIs
 
-🌐 **Portfolio: [rabelo.company](https://rabelo.company)** · 💼 Open to opportunities · 🇧🇷 Remote · English C2 (EF SET)
+🌐 **Portfolio: [deciban](https://deciban.com.br)** · 💼 Open to opportunities · 🇧🇷 Remote · English C2 (EF SET)
 
 ## 🛠 Stack
 
